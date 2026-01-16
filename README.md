@@ -12,4 +12,7 @@ Tento skript som vytvorila ako svoj **prvý programátoský projekt**. Pomáha m
 * Ako bezpečne pracovať s **heslami aplikácií**  pre Google účet.
 * Ako používať **GitHub** na zdielanie môjho kódu.
 
-* Vytvorené s láskou k poriadku a čistému inboxu.*
+* Vytvorené s láskou k poriadku a čistému inboxu.
+
+### Moja cesta za kódom
+Tento projekt je súčasťou môjho vzdelávania v programe Python. Zatiaľ na kódoch a logike pracujem s pomocou (AI), ktorá mi pomáha pochopiť, ako veci fungujú. Som na ceste za tým, aby som sa stala samostatnou programátorkou!
